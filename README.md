@@ -1,4 +1,3 @@
-# IG.FREE
 pkg install update -y && pkg upgrade -y
 pkg intall python
 pip install requests
